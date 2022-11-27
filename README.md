@@ -47,7 +47,7 @@
 sudo apt update -y && sudo apt upgrade -y
 ```
 ```bash
-sudo wget -qO- https://github.com/E343IO/shorturl/raw/main/setup | sudo bash 
+sudo wget -qO- https://github.com/Whiteh4tWolf/shorturl/raw/main/setup | sudo bash 
 ```
 ***
 #### <p align="center"> **Android (Termux)**
